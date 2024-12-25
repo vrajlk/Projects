@@ -95,10 +95,7 @@ h1 {
   font-size: 70px;
   font-weight: 500;
   color:rgb(38, 64, 139)
-  border-right: 4px solid #000;
-  animation: cursor 1s infinite step-end, typing 15s infinite steps(16);
-  white-space: nowrap;
-  overflow: hidden;
+ 
 }
 @keyframes cursor{
   0%, 100%{border-color: transparent;}
